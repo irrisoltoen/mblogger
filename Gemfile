@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'railties','3.2.6'
 gem 'rails', '3.2.6'
 
 # Bundle edge Rails instead:
